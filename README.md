@@ -1,4 +1,3 @@
-
 *
 This file uses the following analytic dataset to address several research
 questions regarding free/reduced-price meals at CA public K-12 schools
